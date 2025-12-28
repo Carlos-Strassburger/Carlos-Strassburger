@@ -5,6 +5,11 @@
 
 Currently a web developer, but aspiring to work with mobile dev. Passionate about Swift and Apple's mobile ecosystem! I've been working with Software Development for the past 3 years. And I've been enjoying it a lot!
 
+### My skills
+
+[![My Skills](https://skillicons.dev/icons?i=swift,apple,js,ts,html,css,react)](https://skillicons.dev)
+
+
 ###  :telescope: My Hobbies
 My time is mostly spent on these few things, which I enjoy so much:
 
@@ -14,6 +19,6 @@ My time is mostly spent on these few things, which I enjoy so much:
 🥊  Boxing  
 
 ## Projects:
-:star: Currently wortking on with UIKIt: [Film Findr](https://github.com/Carlos-Strassburger/FilmFindr)
+[Film Findr](https://github.com/Carlos-Strassburger/FilmFindr)
 
-:star: First UIKit project using the storyboard: [iTale](https://github.com/Carlos-Strassburger/iTale-iOS)
+[iTale](https://github.com/Carlos-Strassburger/iTale-iOS)
